@@ -11,12 +11,12 @@
   },
   {
     "name": "Bab 3",
-    "description": "Description of Bab 2",
+    "description": "Description of Bab 3",
     "url": "  https://raw.githubusercontent.com/owieepstopik/textbooks2024/main/57b9fb89f392fcef6968baef9383c91c15815095/bab3/textbook2024bab3.pdf"
   },
   {
     "name": "Bab 4",
-    "description": "Description of Bab 2",
+    "description": "Description of Bab 4",
     "url": "  https://raw.githubusercontent.com/owieepstopik/textbooks2024/main/57b9fb89f392fcef6968baef9383c91c15815095/bab4/textbook2024bab4.pdf"
   },
   {
@@ -28,5 +28,25 @@
     "name": "Bab 6",
     "description": "Description of Bab 6",
     "url": "  https://raw.githubusercontent.com/owieepstopik/textbooks2024/main/57b9fb89f392fcef6968baef9383c91c15815095/bab6/textbook2024bab6.pdf"
+  },
+  {
+    "name": "Bab 7",
+    "description": "Description of Bab 7",
+    "url": "  https://raw.githubusercontent.com/owieepstopik/textbooks2024/main/57b9fb89f392fcef6968baef9383c91c15815095/bab7/textbook2024bab7.pdf"
+  },
+  {
+    "name": "Bab 8",
+    "description": "Description of Bab 8",
+    "url": "  https://raw.githubusercontent.com/owieepstopik/textbooks2024/main/57b9fb89f392fcef6968baef9383c91c15815095/bab8/textbook2024bab8.pdf"
+  },
+  {
+    "name": "Bab 9",
+    "description": "Description of Bab 9",
+    "url": "  https://raw.githubusercontent.com/owieepstopik/textbooks2024/main/57b9fb89f392fcef6968baef9383c91c15815095/bab9/textbook2024bab9.pdf"
+  },
+  {
+    "name": "Bab 10",
+    "description": "Description of Bab 10",
+    "url": "  https://raw.githubusercontent.com/owieepstopik/textbooks2024/main/57b9fb89f392fcef6968baef9383c91c15815095/bab10/textbook2024bab10.pdf"
   }
 ]
